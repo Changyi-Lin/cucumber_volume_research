@@ -44,6 +44,11 @@ result/
 runs/
 logs/
 wandb/
+ring_benchmark.csv
+ring_spline_*_benchmark.csv
+endpoint_*_metrics.csv
+*_endpoint_centerline.csv
+*_shape_template.csv
 
 # CMake / compiled artifacts
 build/
